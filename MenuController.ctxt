@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MenuController()
+comment0.text=\r\n\ <pre>\r\n\ The\ default\ constructor.\ The\ constructor\ creates\ an\ instance\ of\ the\ Scanner\ class.\ It\ also\ asks\ the\ user\ to\ enter\ the\ gym\ name,\ manager\ name\ and\r\n\ gym\ phone\ number.\ These\ details\ are\ used\ to\ create\ an\ instance\ of\ the\ Gym.\ The\ final\ task\ in\ the\ constructor\ is\ to\ run\ the\ menu.\r\n\ </pre>\r\n
+comment1.params=
+comment1.target=int\ mainMenu()
+comment1.text=\r\n\ \r\n\ mainMenu()\ -\ This\ method\ displays\ the\ main\ menu\ for\ the\ application,\r\n\ reads\ the\ menu\ option\ that\ the\ user\ entered\ and\ returns\ it.\r\n\ \r\n\ \r\n\ @return\ \ \ \ \ \ \ the\ users\ menu\ choice\r\n
+comment2.params=
+comment2.target=void\ runMenu()
+comment2.text=\r\n\ This\ is\ the\ method\ that\ controls\ the\ loop\r\n
+comment3.params=
+comment3.target=void\ addMember()
+numComments=4
